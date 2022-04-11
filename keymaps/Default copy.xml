@@ -1,0 +1,54 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivateMavenToolWindow">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl alt page_down" />
+  </action>
+  <action id="Console.TableResult.CloneColumn" />
+  <action id="ExportSettings">
+    <keyboard-shortcut first-keystroke="shift ctrl alt e" />
+  </action>
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="ctrl alt page_up" />
+  </action>
+  <action id="ImportProject">
+    <keyboard-shortcut first-keystroke="ctrl alt 2" />
+  </action>
+  <action id="ImportSettings">
+    <keyboard-shortcut first-keystroke="shift ctrl alt d" />
+  </action>
+  <action id="NewProject">
+    <keyboard-shortcut first-keystroke="ctrl alt 1" />
+  </action>
+  <action id="NewProjectFromVCS">
+    <keyboard-shortcut first-keystroke="ctrl alt 3" />
+  </action>
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
+  </action>
+  <action id="ProjectFromVersionControl">
+    <keyboard-shortcut first-keystroke="ctrl alt 3" />
+  </action>
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
+  <action id="UML.ShowChanges" />
+  <action id="UpdateRunningApplication" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+</keymap>

@@ -1,0 +1,7 @@
+<application>
+  <component name="UISettings">
+    <option name="MAX_LOOKUP_WIDTH2" value="1183" />
+    <option name="SHOW_MAIN_TOOLBAR" value="true" />
+    <option name="SHOW_TOOL_WINDOW_NUMBERS" value="true" />
+  </component>
+</application>

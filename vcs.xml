@@ -1,4 +1,582 @@
 <application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="https://neogit.neoflex.ru/nfo-projects/prototypes/VTB-CARPARK/carpark-back.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/howtoprogram/apache-kafka-examples.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/eugenp/tutorials.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/monkey-codes/java-reactive-chat" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://neogit.neoflex.ru/nfo-projects/prototypes/x5tender/x5tender-back" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://neogit.neoflex.ru/nfo-projects/loan-origination/atb/product.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://neogit.neoflex.ru/nfo-projects/loan-origination/atb/integration" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://neogit.neoflex.ru/nfo-projects/loan-origination/atb/process" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://neogit.neoflex.ru/nfo-projects/loan-origination/atb/catalog" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://neogit.neoflex.ru/nfo-projects/loan-origination/atb/product" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://neogit.neoflex.ru/nfo-projects/loan-origination/atb/front" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://neogit.neoflex.ru/nfo-projects/prototypes/ModernLoanOriginationSystem/loan-origination-back-msa/dicts" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://neogit.neoflex.ru/nfo-projects/prototypes/ModernLoanOriginationSystem/loan-origination-back-msa/auth" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://neogit.neoflex.ru/nfo-projects/prototypes/ModernLoanOriginationSystem/loan-origination-back-msa/application" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://neogit.neoflex.ru/nfo-projects/prototypes/ModernLoanOriginationSystem/loan-origination-back-msa/task" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://neogit.neoflex.ru/nfo-projects/prototypes/ModernLoanOriginationSystem/loan-origination-back-msa/cms" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://neogit.neoflex.ru/nfo-projects/prototypes/ModernLoanOriginationSystem/loan-origination-back-msa/process-history" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://neogit.neoflex.ru/nfo-projects/prototypes/ModernLoanOriginationSystem/loan-origination-back-msa/validation" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://neogit.neoflex.ru/nfo-projects/prototypes/ModernLoanOriginationSystem/loan-origination-back-msa/spark" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://neogit.neoflex.ru/nfo-projects/prototypes/ModernLoanOriginationSystem/loan-origination-back-msa/prescoring" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://neogit.neoflex.ru/nfo-projects/prototypes/ModernLoanOriginationSystem/loan-origination-back-msa/news" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://neogit.neoflex.ru/nfo-projects/prototypes/ModernLoanOriginationSystem/loan-origination-back-msa/notification" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://neogit.neoflex.ru/nfo-projects/prototypes/ModernLoanOriginationSystem/loan-origination-back-msa/participant" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://neogit.neoflex.ru/nfo-projects/prototypes/ModernLoanOriginationSystem/loan-origination-back-msa/mdm" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://neogit.neoflex.ru/nfo-projects/prototypes/ModernLoanOriginationSystem/loan-origination-back-msa/document" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://neogit.neoflex.ru/nfo-projects/prototypes/ModernLoanOriginationSystem/loan-origination-back-msa/bp" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://neogit.neoflex.ru/nfo-projects/prototypes/ModernLoanOriginationSystem/loan-origination-back-msa/chat" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://neogit.neoflex.ru/nfo-projects/prototypes/ModernLoanOriginationSystem/loan-origination-back-msa/jfairy" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://neogit.neoflex.ru/nfo-projects/prototypes/ModernLoanOriginationSystem/loan-origination-back-msa/calculator" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://neogit.neoflex.ru/nfo-projects/prototypes/ModernLoanOriginationSystem/loan-origination-back-msa/nxreport-lib" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://neogit.neoflex.ru/nfo-projects/loan-origination/PSA/front-bp" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kamismile/carpark-back" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/14key/PAL.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spring-guides/gs-service-registration-and-discovery.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/14key/Acolyte.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spring-guides/gs-accessing-data-mongodb.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://neogit.neoflex.ru/nfo-projects/loan-origination/atb/monitoring" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://prd-gitlab-srv1.yarbank.local/sbi-fb-core/sbi-fb-core" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://prd-gitlab-srv1.yarbank.local/sbi-fb-proxy-transfer/sbi-fb-proxy-transfer/" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/14key/h1dd3n.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.sbibankllc.ru/fb-backend/identity/auth.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/14key/h1dd3n" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.sbibankllc.ru/fb-backend/proxy-participants.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.sbibankllc.ru/fb-backend/accounts-bonus" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="balashovaasbi" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://balashovaasbi@bitbucket.org/surfstudio/sbi-swagger.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.sbibankllc.ru/fb-backend/identity/registration.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://prd-gitlab-srv1.yarbank.local/fb-backend/identity/auth" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://prd-gitlab-srv1.yarbank.local/fb-backend/proxy-products" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://prd-gitlab-srv1.yarbank.local/fb-backend/proxy-products-details" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.sbibankllc.ru/fb-backend/payments/proxy-payments.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.sbibankllc.ru/fb-backend/payments/payments-qiwi.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.sbibankllc.ru/fb-backend/fields.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.sbibankllc.ru/fb-backend/dicts.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.sbibankllc.ru/fb-backend/statement.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.sbibankllc.ru/fb-backend/operations/operations-view.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.sbibankllc.ru/fb-backend/starters/filters-starter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.sbibankllc.ru/fb-backend/common/core.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://prd-gitlab-srv1.yarbank.local/fb-backend/starters/dbo-client-starter" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.sbibankllc.ru/sbi-fb-core/sbi-fb-core.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spring-guides/gs-caching.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spring-framework-guru/sfg-blog-posts.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.sbibankllc.ru/fb-backend/starters/error-handler-starter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.sbibankllc.ru/fb-backend/starters/crm-client-starter/tree/feature/crm_starter2" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.sbibankllc.ru/fb-backend/starters/crm-client-starter/" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.sbibankllc.ru/fb-backend/operations/operations-mapper.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.sbibankllc.ru/fb-backend/operations/operations-extract.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.sbibankllc.ru/fb-backend/transfers/proxy-transfer.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.sbibankllc.ru/fb-backend/starters/logging-starter" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.sbibankllc.ru/fb-backend/transfers/proxy-p2p" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.sbibankllc.ru/fb-backend/starters/crm-client-starter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.sbibankllc.ru/fb-backend/operations/operations-event.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.sbibankllc.ru/fb-backend/cashoff.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.sbibankllc.ru/neoflex-wso2/sbi-msb-rest-services.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.sbibankllc.ru/neoflex-wso2/sbi-msb-wso2-core.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.sbibankllc.ru/fb-backend/proxy-attorney.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mc-dak/JsonToMongoDB.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spring-guides/gs-producing-web-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.sbibankllc.ru/fb-backend/identity/child-registration.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.sbibankllc.ru/fb-backend/identity/invitations.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.sbibankllc.ru" />
+          <option name="userName" value="Kubrakov.AA" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.sbibankllc.ru/fb-backend/dadata-proxy.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.sbibankllc.ru/fb-backend/payments/payments_limits.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.sbibankllc.ru/fb-backend/starters/web-starter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://prd-gitlab-srv1.yarbank.local" />
+          <option name="userName" value="Kubrakov.AA" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.sbibankllc.ru/fb-backend/gateways/crm-gateway.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ftx14/idea_settings" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://sbtatlas.sigma.sbrf.ru/stash/scm/gmbus/diasoft-emails-siebel.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://sbtatlas.sigma.sbrf.ru/stash/scm/gmbus/config-repo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://sbtatlas.sigma.sbrf.ru/stash/scm/gmbus/aspect-trades-murex-out.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://sbtatlas.sigma.sbrf.ru/stash/scm/gmbus/po-kogkod-zeus-out.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://sbtatlas.sigma.sbrf.ru/stash/scm/gmbus/diasoft-securities-regum.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.krit.pro" />
+          <option name="userName" value="andrey.kubrakov" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.krit.pro/loan/api-gateway.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spring-guides/gs-rest-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.krit.pro/loan/participant.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.krit.pro/loan/mini-app-view.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.krit.pro/loan/prescoring.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.krit.pro/loan/liabilities.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://vcs.proitr.ru" />
+          <option name="userName" value="kubrakov" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://vcs.proitr.ru/darts/ggexp/gge-portal-naumen.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://vcs.proitr.ru/darts/ggexp/services/xml-conclusion-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://vcs.proitr.ru/darts/ggexp/frontend/gge-frontend-app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/juliuskrah/spring-boot-liquibase.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.com:mvideoru/core-services/cashbox-and-payments/payments.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/mvideoru/core-services/cashbox-and-payments/payments.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="andrei.kubrakov1" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/mvideoru/core-services/cashbox-and-payments/ofd-facade.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/mvideoru/core-services/cashbox-and-payments/sp-payment-adapter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/mvideoru/core-services/orders/delivery/delivery-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/mvideoru/core-services/orders/order-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/mvideoru/core-services/cashbox-and-payments/payment-adapter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/mvideoru/core-services/cashbox-and-payments/cashbox-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/mvideoru/core-services/cashbox-and-payments/cashbox-bpmn-engine.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://stash.mvideo.ru/stash/scm/fapi/cashbox.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://stash.mvideo.ru" />
+          <option name="userName" value="acc_kubrakov" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/mvideoru/core-services/cashbox-and-payments/etl-receipt-fiscalization-create.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/mvideoru/core-services/cashbox-and-payments/etl-receipt-crm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/mvideoru/core-services/cashbox-and-payments/etl-receipt-fobo-create.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/mvideoru/core-services/orders/libraries/metric-logger.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/mvideoru/core-services/cashbox-and-payments/receipt-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/mvideoru/core-services/communications/notification.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/mvideoru/core-services/cashbox-and-payments/libraries/lib-receipt.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/mvideoru/core-services/cashbox-and-payments/payment-bpmn-engine.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/mvideoru/core-services/order-placement/lib/mvideo-msp-oppe-adapter-starter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/mvideoru/core-services/order-placement/services/checkout-service" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/mvideoru/tech-platform/projects/lastmile/lib-mvideo-lastmile-common.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/mvideoru/core-services/orders/rtd-channel-adapter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/mvideoru/core-services/order-placement/services/shopping-cart-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/mvideoru/core-services/cashbox-and-payments/configs.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/mvideoru/core-services/cashbox-and-payments/etl-receipt-fobo-instore-distribution-update.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/mvideoru/core-services/cashbox-and-payments/mocks" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/mvideoru/core-services/cashbox-and-payments/mocks.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/mvideoru/core-services/orders/crm-adapter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/mvideoru/core-services/orders/mock-order.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/mvideoru/core-services/orders/int-60-order-adapter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/joelittlejohn/jsonschema2pojo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/mvideoru/core-services/orders/configs.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/mvideoru/core-services/orders/services-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/mvideoru/core-services/orders/order-business-rules.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="F:\Workspaces\mvideo" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Subject" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
   <component name="VcsApplicationSettings">
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
