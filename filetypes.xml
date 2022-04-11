@@ -6,13 +6,13 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="dmn" type="Native" />
-      <mapping pattern=".openapi-generator-ignore" type="PLAIN_TEXT" />
-      <mapping pattern="JKH_PAYMENT_CONSTRAINTS.kt" type="PLAIN_TEXT" />
       <mapping pattern="init" type="PLAIN_TEXT" />
-      <mapping pattern="test-file" type="PLAIN_TEXT" />
-      <mapping pattern="JKH_PAYMENT_CONSTRAINTS" type="PLAIN_TEXT" />
       <mapping pattern="sap" type="PLAIN_TEXT" />
+      <mapping pattern=".openapi-generator-ignore" type="PLAIN_TEXT" />
       <mapping pattern=".src_main_resources_META-INF_wsdl_SBLNDiasoftFINAccountPhone.WSDL.java.DONE" type="PLAIN_TEXT" />
+      <mapping pattern="test-file" type="PLAIN_TEXT" />
+      <mapping pattern="JKH_PAYMENT_CONSTRAINTS.kt" type="PLAIN_TEXT" />
+      <mapping pattern="JKH_PAYMENT_CONSTRAINTS" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
       <mapping ext="fix" type="PLAIN_TEXT" />
       <mapping ext="tar" type="PLAIN_TEXT" />
