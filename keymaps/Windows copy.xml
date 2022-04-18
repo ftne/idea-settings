@@ -4,7 +4,14 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl alt page_down" />
   </action>
+  <action id="EditorScrollToCenter" />
+  <action id="Maven.ExecuteGoal">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
 </keymap>
