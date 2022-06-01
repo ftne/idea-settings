@@ -1,24 +1,56 @@
 <keymap version="1" name="Windows copy" parent="$default">
-  <action id="Back">
-    <keyboard-shortcut first-keystroke="ctrl alt left" />
-    <mouse-shortcut keystroke="button4" />
-    <keyboard-shortcut first-keystroke="ctrl alt page_down" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="Back">
+    <mouse-shortcut keystroke="alt button142" />
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift f10" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="ContextHelp" />
+  <action id="CopyElement" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift f9" />
     <keyboard-shortcut first-keystroke="shift alt d" />
   </action>
+  <action id="Debugger.EditFrameSource" />
+  <action id="Documentation.EditSource" />
+  <action id="DomCollectionControl.Edit" />
+  <action id="DomElementsTreeView.GotoDomElementDeclarationAction" />
+  <action id="EditSource" />
   <action id="EditorScrollToCenter" />
+  <action id="ExternalSystem.OpenConfig" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="f7" />
+  </action>
+  <action id="Forward">
+    <mouse-shortcut keystroke="alt button143" />
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="Maven.ExecuteGoal">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
+  <action id="NavBar-navigate" />
   <action id="NextDiff" />
+  <action id="NextOccurence" />
+  <action id="OpenModuleSettings" />
+  <action id="PreviousOccurence" />
+  <action id="ProjectViewEditSource" />
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="shift ctrl i" />
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="RerunTests" />
   <action id="Run">
-    <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
   <action id="ShowSettings">
@@ -29,7 +61,9 @@
     <keyboard-shortcut first-keystroke="shift alt q" />
   </action>
   <action id="ToggleBookmark" />
+  <action id="Vcs.EditSource" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
+  <action id="XDebugger.JumpToSource" />
 </keymap>
