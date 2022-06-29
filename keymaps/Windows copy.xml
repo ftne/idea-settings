@@ -6,6 +6,11 @@
     <mouse-shortcut keystroke="alt button142" />
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
+  <action id="BookmarksView.Rename" />
+  <action id="ChangesView.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+  </action>
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
     <keyboard-shortcut first-keystroke="shift ctrl divide" />
@@ -28,6 +33,7 @@
   <action id="DomCollectionControl.Edit" />
   <action id="DomElementsTreeView.GotoDomElementDeclarationAction" />
   <action id="EditSource" />
+  <action id="EditorMatchBrace" />
   <action id="EditorScrollToCenter" />
   <action id="ExternalSystem.OpenConfig" />
   <action id="FindUsages">
@@ -36,6 +42,10 @@
   <action id="Forward">
     <mouse-shortcut keystroke="alt button143" />
     <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="Git.Rename.Local.Branch">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
   </action>
   <action id="Maven.ExecuteGoal">
     <keyboard-shortcut first-keystroke="ctrl m" />
@@ -50,9 +60,14 @@
     <keyboard-shortcut first-keystroke="shift ctrl i" />
     <keyboard-shortcut first-keystroke="f5" />
   </action>
+  <action id="RecentFiles" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="f6" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
   </action>
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="ctrl f5" />
@@ -62,6 +77,13 @@
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
+  <action id="ShelvedChanges.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+  </action>
+  <action id="ShowErrorDescription">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
@@ -69,10 +91,10 @@
   <action id="Stop">
     <keyboard-shortcut first-keystroke="shift alt q" />
   </action>
+  <action id="SwitcherIterateItems" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="ToggleBookmark" />
   <action id="Vcs.EditSource" />
-  <action id="Vcs.ShowMessageHistory">
-    <keyboard-shortcut first-keystroke="ctrl e" />
-  </action>
+  <action id="Vcs.ShowMessageHistory" />
   <action id="XDebugger.JumpToSource" />
 </keymap>
