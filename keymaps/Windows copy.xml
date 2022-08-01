@@ -34,7 +34,9 @@
   <action id="DomElementsTreeView.GotoDomElementDeclarationAction" />
   <action id="EditSource" />
   <action id="EditorMatchBrace" />
+  <action id="EditorPasteFromX11" />
   <action id="EditorScrollToCenter" />
+  <action id="EditorShowGutterIconTooltip" />
   <action id="ExternalSystem.OpenConfig" />
   <action id="ExternalSystem.ProjectRefreshAction" />
   <action id="FindUsages">
