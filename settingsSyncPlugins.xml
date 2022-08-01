@@ -110,6 +110,11 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="idea.plugin.protoeditor">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
         <entry key="mobi.hsz.idea.gitignore">
           <value>
             <PluginData>
@@ -168,6 +173,11 @@
               </option>
               <option name="enabled" value="false" />
             </PluginData>
+          </value>
+        </entry>
+        <entry key="org.jetbrains.kotlin">
+          <value>
+            <PluginData />
           </value>
         </entry>
         <entry key="org.jetbrains.plugins.javaFX">
